@@ -2,8 +2,8 @@
 - 👩🏻‍💻 Análise e Desenvolvimento de Sistemas | SPTech 1/4
 
 <div>
-  <img  height="200" width="400em" src="https://github-readme-stats.vercel.app/api?username=eduardaguardiao&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img align="left" height="200" width="430em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaguardiao&layout=compact&langs_count=16&theme=jolly"/>
+  <img height="150" width="300em" src="https://github-readme-stats.vercel.app/api?username=eduardaguardiao&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  
 </div> 
 
 <div style="display: inline_block"><br>
