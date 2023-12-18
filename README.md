@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Eduarda
-- 👩🏻‍💻 Análise e Desenvolvimento de Sistemas | SPTech 1/4
+- 👩🏻‍💻 Análise e Desenvolvimento de Sistemas | SPTech 2/4
 
 <div>
   <img height="300" width="400em" src="https://github-readme-stats.vercel.app/api?username=eduardaguardiao&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
