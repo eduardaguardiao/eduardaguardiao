@@ -1,10 +1,6 @@
 #### 👩🏻‍💻 Análise e Desenvolvimento de Sistemas | SPTech 4/4  
 
-<div align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaguardiao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-</div>  
-
----
+  ---
 
 ## 🚀 Tecnologias  
 
