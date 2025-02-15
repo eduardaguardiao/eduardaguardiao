@@ -21,7 +21,7 @@
 ### 💻 Back-end & Banco de Dados  
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql" />
+    <img src="https://skillicons.dev/icons?i=spring,java,mysql" />
   </a>
 </p>
 
