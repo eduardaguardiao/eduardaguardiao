@@ -25,7 +25,12 @@
   </a>
 </p>
 
-
+### ♾️ DevOps 
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker" />
+  </a>
+</p>
 
 
 
